@@ -22,6 +22,7 @@ export default function Cart(props) {
 
         return (
           <OptionItem
+            key={idx}
             feature={feature}
             featureHash={featureHash}
             selectedOption={selectedOption}
