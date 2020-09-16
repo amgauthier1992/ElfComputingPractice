@@ -1,5 +1,6 @@
 import React from "react";
 import Cart from "./Cart/Cart";
+import Total from "./Total/Total";
 // Normalizes string as a slug - a string that is safe to use
 // in both URLs and html attributes
 // import slugify from "slugify";
